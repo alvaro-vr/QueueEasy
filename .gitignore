@@ -1,0 +1,67 @@
+####################################
+#            BACKEND               #
+####################################
+
+queueeasy-back/HELP.md
+queueeasy-back/target/
+queueeasy-back/!.mvn/wrapper/maven-wrapper.jar
+queueeasy-back/!**/src/main/**/target/
+queueeasy-back/!**/src/test/**/target/
+
+### STS ###
+queueeasy-back/.apt_generated
+queueeasy-back/.classpath
+queueeasy-back/.factorypath
+queueeasy-back/.project
+queueeasy-back/.settings
+queueeasy-back/.springBeans
+queueeasy-back/.sts4-cache
+
+### IntelliJ IDEA ###
+queueeasy-back/.idea
+queueeasy-back/*.iws
+queueeasy-back/*.iml
+queueeasy-back/*.ipr
+
+### NetBeans ###
+queueeasy-back//nbproject/private/
+queueeasy-back//nbbuild/
+queueeasy-back//dist/
+queueeasy-back//nbdist/
+queueeasy-back//.nb-gradle/
+queueeasy-back/build/
+queueeasy-back/!**/src/main/**/build/
+queueeasy-back/!**/src/test/**/build/
+
+### VS Code ###
+queueeasy-back/.vscode/
+
+
+####################################
+#           FRONTEND               #
+####################################
+
+queueeasy-front/.output
+queueeasy-front/.data
+queueeasy-front/.nuxt
+queueeasy-front/.nitro
+queueeasy-front/.cache
+queueeasy-front/dist
+
+# Node dependencies
+queueeasy-front/node_modules
+
+# Logs
+queueeasy-front/logs
+queueeasy-front/*.log
+
+# Misc
+queueeasy-front/.DS_Store
+queueeasy-front/.fleet
+queueeasy-front/.idea
+
+# Local env files
+queueeasy-front/.env
+queueeasy-front/.env.*
+queueeasy-front/!.env.example
+
